@@ -30,7 +30,42 @@ h1 {
     padding-bottom: 15px;
 }
 
+/* dimensionamento crediti */
+.credit {
+    font-size: 10px;
+}
+
 /* allineamento bullet point */
 .ul-align {
     padding-left: 12px;
+}
+
+/* testo evidenziato */
+.testo-evidenziato {
+    background-color: yellow;
+}
+
+#dim-tab {
+    width: 100%;
+    background-color: rgb(0, 221, 255);
+    text-align: left;
+}
+
+/* allineamento tabella */
+
+#riga1 {
+    width: 25%;
+}
+
+#riga2 {
+    width: 25%;
+}
+
+#riga3 {
+    width: 50%;
+}
+
+/* colori righe tabelle */
+.colore-righe-tabella1 {
+    background-color: rgb(0, 242, 255);
 }
