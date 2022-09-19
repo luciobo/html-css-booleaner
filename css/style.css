@@ -1,9 +1,12 @@
+body {
+    font-family: Arial;
+}
 
-
-
+/* allineamento header */
 header {
     text-align: left;
 }
+
 
 .img-dim {
     background-image: url(../img/pattern.png);
@@ -12,5 +15,6 @@ header {
 
 .dimens-img {
     width: 300px;
-    
+    padding-top: 30px;
 }
+
