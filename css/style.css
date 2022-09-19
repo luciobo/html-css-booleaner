@@ -6,6 +6,9 @@ body {
 header {
     text-align: left;
 }
+h1 {
+    margin-bottom: 0px;
+}
 
 
 .img-dim {
@@ -17,4 +20,17 @@ header {
     width: 300px;
     padding-top: 30px;
 }
+/* dimensione sottotesto intestazione */
+#dimensione-sottotesto {
+    font-size: 15px;
+}
 
+#dimensione-sottotesto2 {
+    font-size: 10px;
+    padding-bottom: 15px;
+}
+
+/* allineamento bullet point */
+.ul-align {
+    padding-left: 12px;
+}
