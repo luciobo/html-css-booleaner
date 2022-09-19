@@ -10,6 +10,10 @@ h1 {
     margin-bottom: 0px;
 }
 
+p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 .img-dim {
     background-image: url(../img/pattern.png);
@@ -38,6 +42,8 @@ h1 {
 /* allineamento bullet point */
 .ul-align {
     padding-left: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 /* testo evidenziato */
@@ -66,6 +72,14 @@ h1 {
 }
 
 /* colori righe tabelle */
-.colore-righe-tabella1 {
+.colore-righe-tabella {
     background-color: rgb(0, 242, 255);
+}
+
+#colore-riga-tabella-b {
+    background-color: white;
+}
+
+.dimensione-immagine {
+    width: 0px;
 }
