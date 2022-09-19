@@ -2,9 +2,15 @@
 
 
 header {
-    text-align: center;
+    text-align: left;
 }
 
 .img-dim {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 162, 255);
+}
+
+.dimens-img {
+    width: 300px;
     
 }
